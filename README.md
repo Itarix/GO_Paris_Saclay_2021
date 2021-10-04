@@ -4,7 +4,7 @@ This project was created for iGEM team of GO Paris Saclay 2021.
 This tools was used to compare miARN.
 
 The project has been uploaded on github because Igem's rule. 
-This repo will not be updated. 
+This repo will not be updated, the original repo which can be updated is on gitlab. 
 
 If you want other version or create issue => https://gitlab.com/Itarix/py-arn.
 
