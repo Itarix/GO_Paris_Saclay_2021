@@ -5,7 +5,7 @@ This tools was used to compare miARN.
 
 The project has been uploaded on github because Igem's rule. 
 
-If you want other version or want ask/add feature, you can create an issue or PR.
+If you want other version or want ask/add feature, you can create an issue or PR on this original repo https://github.com/Itarix/py-arn.
 
 
 # Requirements
